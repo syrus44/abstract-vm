@@ -1,0 +1,11 @@
+; ---------------
+; file1.avm
+; ---------------
+
+push int32(3)
+push int32(0)
+mod
+dump
+exit
+dsadasdas
+;;
